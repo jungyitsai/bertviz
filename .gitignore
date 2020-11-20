@@ -29,3 +29,6 @@ Temporary Items
 .idea
 
 .ipynb_checkpoints
+
+__pycache__
+.vscode
