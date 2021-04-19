@@ -12,8 +12,8 @@
 
 require.config({
   paths: {
-      d3: '//cdnjs.cloudflare.com/ajax/libs/d3/3.4.8/d3.min',
-      jquery: '//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min',
+      d3: '//cdnjs.cloudflare.com/ajax/libs/d3/3.4.8/d3.min.js',
+      jquery: '//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js',
   }
 });
 
